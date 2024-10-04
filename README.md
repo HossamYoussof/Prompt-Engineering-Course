@@ -10,7 +10,7 @@ This playlist covers the fundamentals of **Prompt Engineering** using LLMs (Larg
 
 ### Key Topics:
 - Introduction to Prompt Engineering
-- [LLM installation](Installation.ipynb) (Mistalai and HuggingFaceH4/zephyr-7b-beta)
+- [LLM installation](Installation.ipynb) ([OpneAI](https://python.langchain.com/docs/integrations/chat/openai/), [Mistalai](https://python.langchain.com/docs/integrations/chat/mistralai/) and [HuggingFace](https://python.langchain.com/docs/integrations/chat/huggingface/))
 
 
 ---
