@@ -9,9 +9,9 @@ Welcome to the **Prompt Engineering using LangChain Course** repository! This re
 This playlist covers the fundamentals of **Prompt Engineering** using LLMs (Large Language Models) like GPT-4. You'll learn how to craft effective prompts for various programming and development tasks.
 
 ### Key Topics:
-- Introduction to Prompt Engineering. [E.1-Ch.1](https://youtu.be/A-sNuzZgY8g?si=QBeHEcvjG6q2NdqT)
-- [LLM installation](Installation.ipynb) [E.7-Ch.2](https://youtu.be/YLmK_w4LSYY?si=6H-6ChblZiYlYfc5) ([OpneAI](https://python.langchain.com/docs/integrations/chat/openai/), [Mistalai](https://python.langchain.com/docs/integrations/chat/mistralai/) and [HuggingFace](https://python.langchain.com/docs/integrations/chat/huggingface/))
-- [Prompt Templates](Templates.ipynb) [E.11-Ch.3](https://youtu.be/5--xlDBfPng?si=yMAF3ABflpt7QxLl)
+- [Introduction to Prompt Engineering](https://youtu.be/A-sNuzZgY8g?si=QBeHEcvjG6q2NdqT)
+- [LLM installation](https://youtu.be/YLmK_w4LSYY?si=6H-6ChblZiYlYfc5) [Example](Installation.ipynb) ([OpneAI](https://python.langchain.com/docs/integrations/chat/openai/), [Mistalai](https://python.langchain.com/docs/integrations/chat/mistralai/) and [HuggingFace](https://python.langchain.com/docs/integrations/chat/huggingface/))
+- [Prompt Templates](https://youtu.be/5--xlDBfPng?si=yMAF3ABflpt7QxLl) [Example](Templates.ipynb)
 
 
 ---
