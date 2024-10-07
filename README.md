@@ -12,6 +12,7 @@ This playlist covers the fundamentals of **Prompt Engineering** using LLMs (Larg
 - [Introduction to Prompt Engineering](https://youtu.be/A-sNuzZgY8g?si=QBeHEcvjG6q2NdqT)
 - [LLM installation](https://youtu.be/YLmK_w4LSYY?si=6H-6ChblZiYlYfc5) [Example](Installation.ipynb) ([OpneAI](https://python.langchain.com/docs/integrations/chat/openai/), [Mistalai](https://python.langchain.com/docs/integrations/chat/mistralai/) and [HuggingFace](https://python.langchain.com/docs/integrations/chat/huggingface/))
 - [Prompt Templates](https://youtu.be/5--xlDBfPng?si=yMAF3ABflpt7QxLl) [Example](Templates.ipynb)
+- [Chatbots Schemes](https://youtu.be/eip63bomemI?si=lRwYFUtUbNV3Etg_) [Example](Chatbots_Schemes.ipynb)
 
 
 ---
