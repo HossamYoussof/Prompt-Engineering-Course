@@ -14,6 +14,7 @@ This playlist covers the fundamentals of **Prompt Engineering** using LLMs (Larg
 - [Prompt Templates](https://youtu.be/5--xlDBfPng?si=yMAF3ABflpt7QxLl) [Example](Templates.ipynb)
 - [Chatbots Schemes](https://youtu.be/eip63bomemI?si=lRwYFUtUbNV3Etg_) [Example](Chatbots_Schemes.ipynb)
 - [Fewshot Learning](https://youtu.be/1ZJfEEpESzM?si=AhreigivVOpVQ9jO) [Example](Fewshot_Learning.ipynb)
+- [Output Parser](https://youtu.be/r7uZo4kGxFU?si=ThyPWZhXQMW8iCPT) [Example](Output_Parser.ipynb)
 
 
 ---
